@@ -1,0 +1,23 @@
+
+
+.cat2{
+    width: 150px;
+    height: 150px;
+    border: 3px solid blue;
+}
+
+.cat1{
+    width: 150px;
+    height: 150px;
+    border: 3px solid gray;
+    margin-left: 950px;
+}
+
+.bottom{
+
+    width: 150px;
+    height: 150px;
+    margin-left: 550px;
+    display: block;
+    border: 3px solid yellow;
+}
