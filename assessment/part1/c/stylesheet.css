@@ -1,0 +1,31 @@
+p{
+	font-size: 16px;
+	font-family: Tahoma;
+}
+
+.line1{
+	color: orange;
+	font-family: Verdana;
+	font-size: 16px;
+	margin: 10px 0px 10px 0px;
+}
+.line2{
+	color: red;
+	font-family: Impact;
+	font-size: 16;
+	margin: 10px 0px 10px 0px;
+}
+
+.line3{
+	color: pink;
+	font-family: Georgia;
+	font-size: 16px;
+	margin: 10px 0px 10px 0px;
+}
+
+.line4{
+	color: black;
+	font-family: Tahoma;
+	font-size: 16px;
+	margin: 10px 0px 10px 0px;
+}
